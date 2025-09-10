@@ -119,16 +119,30 @@ first repository on Github
     <div>
       <h2>Story</h2>
       <p>
-        This is where your story will unfold.  
-        You can write about emotions, journeys, and dreams that remain incomplete.  
-        A tale of what could have been, yet still lingers in memory.  
+        . The Unfinished Promise ◌
+                     	         Some promises break without a sound, but their silence lasts forever.
+
+Amrut had always loved Poonam. She was not just his cousin; she was the girl who made his world brighter. They shared small secrets, shy smiles, and even dreams of a future together. Poonam herself had once told him that she imagined their marriage, that she could see them living as husband and wife.
+
+For Amrut, those words became truth. He held on to them as if they were a promise.
+
+But one day, Poonam changed her heart. She told him they couldn’t be together because they were cousins, because society would never accept it. She walked away, leaving Amrut alone with his shattered hopes.
+
+Amrut did not fight back. He did not question her choice. He simply broke from the inside. His laughter stopped, his dreams dissolved, and life became empty.
+
+Now, his days pass without meaning. He eats, he walks, he works, but there is no interest in anything. Friends speak to him, but he answers with silence. The boy who once lived with fire in his eyes is gone.
+
+And this is his revenge—quiet but deep.
+He doesn’t try to hurt Poonam, he doesn’t try to ruin her life. Instead, he carries his emptiness with him. Each time Poonam thinks of him, she will remember not his anger, but the broken man she left behind.
+Amrut’s revenge is not to destroy her—it is to show that she destroyed him………..
+
         Add as much or as little text as you wish here.
       </p>
     </div>
   </section>
 
   <footer>
-    © 2025 The Unfinished Promise | Crafted with ❤️
+    © 2025 The Unfinished Promise | Crafted with ❤
   </footer>
 
 </body>
